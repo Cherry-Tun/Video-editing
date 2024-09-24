@@ -1,3 +1,3 @@
 # Video-editing
 Trailer portfolio 
-International Movie Cinematic Trailer (ANEETHI)
+International Cinematic Movie Trailer (ANEETHI)
